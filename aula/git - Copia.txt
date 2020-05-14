@@ -1,0 +1,11 @@
+git init
+git remote add origin https://github.com/gmotec2020/php.git
+git add --all
+git commit -m " mensagem "
+git push origin master
+
+
+---
+atualizar 
+
+
